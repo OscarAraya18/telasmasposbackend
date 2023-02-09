@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "na"
+  ],
+  "author": "oscararaya",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
